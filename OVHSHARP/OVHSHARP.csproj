@@ -6,7 +6,7 @@
     <Title>OVH C# API Wrapper</Title>
     <PackageVersion>5.0.0</PackageVersion>
     <PackageDescription>A set of classes and helpers to make calls to OVH's APIs.</PackageDescription>
-    <Authors>Luke Marlin;Julien Loir;Jason Hildebrand</Authors>
+    <Authors>jason-jxc</Authors>
     <RepositoryUrl>https://github.com/jason-jxc/OVHSHARP</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
     <PackageLicenseFile>LICENSE</PackageLicenseFile>
@@ -14,6 +14,8 @@
     <AssemblyVersion>5.0.0</AssemblyVersion>
     <FileVersion>5.0.0</FileVersion>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <Copyright>Jason Hildebrand</Copyright>
+    <Description>Wrapper around OVH's APIs</Description>
   </PropertyGroup>
 
   <ItemGroup>
